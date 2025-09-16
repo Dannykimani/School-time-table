@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="school timetable.css">
   </head>
   <h1>MASTER TIMETABLE FOR 2024/2025 ACADEMIC YEAR</h1>
   <h2>Prepared by: Daniel Muriu</h2>
