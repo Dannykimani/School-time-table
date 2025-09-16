@@ -30,7 +30,7 @@
         <tbody>
           <!-- MONDAY (5 rows for Yr7-Yr11) -->
           <td class="MONDAY" rowspan="5">MONDAY</td>
-            <td class="FORM TUTORS" rowspan="25"></td>
+            <th class="vertical-rowspan-text" rowspan="25">FORM TUTORUS TIME</th>
             <td class="small">Yr.7</td>
             <td class="Devotion" rowspan="5">Devotion</td>
             <td>ICT 2</td>
