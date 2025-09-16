@@ -37,7 +37,7 @@
             <td class="Break">Break</td>
             <td>MATH 11</>
             <td>ENG 17</td>
-            <td class="highlight">P.E 13</td>
+            <td>P.E 13</td>
             <td></td>
             <td>GEO 15</td>
             <td>SCIENCE 9</td>
@@ -49,64 +49,63 @@
             <td></td>
             <td class="small">Yr.8</td>
             <td></td>
-          <tr>
-            <td class="small"></td>
-            <td class="small">Yr.8</td>
-            <td></td>
-            <td>MATH 11</td>
-            <td>ENG 17</td>
+           <td>MATH 11</td>
             <td class="break">BREAK</td>
-            <td>HIST 10</td>
             <td>SCIENCE 9</td>
             <td>ART 18</td>
+            <td>P.E 13</td>
+            <td></td>
             <td>ENG 17</td>
-            <td>LS 14</td>
-            <td>LS 14</td>
+            <td>L.S 14 </td>
+            <td>L.S 14> </td>
             <td></td>
           </tr>
           <tr>
+            <td class="Small">MON</td>
             <td></td>
             <td class="small">Yr.9</td>
             <td>DEVOTION</td>
             <td>ENG 17</td>
             <td></td>
-            <td>LS 14</td>
-            <td>LS 14</td>
+            <td>HIST 10</td>
+            <td>SCIENCE 9</td>
             <td>SWA13/FRE5/CHI6</td>
             <td class="highlight lunch" rowspan="1">LUNCH</td>
-            <td>LS 14</td>
+            <td>BUS 11</td>
             <td>MATH 4</td>
             <td>P.E 13</td>
             <td></td>
           </tr>
           <tr>
             <td></td>
-            <td class="small">Yr.10</td>
-            <td>ENG 7</td>
             <td></td>
-            <td>BIO 3</td>
-            <td>FRE/ICT 12</td>
-            <td>ENG 7</td>
+            <td class="small">Yr.10</td>
+              <td></td>
+            <td>ENG 7 10</td>
+            <td></td>
+            <td>L.S 14</td>
+            <td>L.S 14</td>
             <td>MATH 4</td>
+            <td class="LUNCH">LUNCH</td>
             <td>BIO 19</td>
             <td>GEO 15</td>
             <td>HIST 10</td>
             <td></td>
-            <td></td>
           </tr>
           <tr>
             <td></td>
+            <td></td>
             <td class="small">Yr.11</td>
+            <td></td>
             <td>GEO 15 / FRE 5</td>
             <td></td>
+            <td>BIO 3</td>
+            <td>FRE/ICT 12</td>
+            <td>ENG 7</td>
             <td></td>
-            <td>LS 14</td>
+            <td>PHY 16</td>
+            <td>SWA 13</td>
             <td>MATH 4</td>
-            <td></td>
-            <td>P.E 13</td>
-            <td>BUS 11</td>
-            <td>MATH 4</td>
-            <td>P.E 13</td>
             <td></td>
           </tr>
           <!-- TUESDAY -->
@@ -116,25 +115,27 @@
             <td class="small">Yr.7</td>
             <td>SCIENCE 9</td>
             <td>LIB</td>
+            <td></td>
             <td>MATH 11</td>
             <td>ART 18</td>
             <td>P.E 13</td>
             <td></td>
-            <td>GEO 15</td>
-            <td>SCIENCE 9</td>
-            <td>LS 14</td>
+            <td>ENG17</td>
+            <td>HIST1</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
             <td></td>
+            <td></td>
             <td class="small">Yr.8</td>
             <td>MATH 11</td>
             <td>SCIENCE 9</td>
+            <td></td>
             <td>ENG 17</td>
             <td>GEO 15</td>
-            <td>GEO 15</td>
+            <td>P.E 13</td></td>
             <td class="highlight lunch">LUNCH</td>
-            <td>ENG 17</td>
             <td>HIST 1</td>
             <td>ICT 2</td>
             <td></td>
@@ -142,9 +143,11 @@
           </tr>
           <tr>
             <td></td>
+            <td></td>
             <td class="small">Yr.9</td>
             <td>ENG 17</td>
             <td>SWA13/FRE5/CHI6</td>
+              <td></td>
             <td>LS 14</td>
             <td>LS 14</td>
             <td>MATH 4</td>
@@ -153,28 +156,30 @@
             <td>SCIENCE 9</td>
             <td>GENDER MEETING / DEBATE</td>
             <td></td>
-            <td></td>
           </tr>
-          <tr>
+               <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.10</td>
             <td>MATH 4</td>
             <td>ENG 7</td>
+            <td></td>
             <td>HIST 10</td>
             <td>CHEM 19</td>
             <td>PHY 9</td>
             <td class="highlight lunch">LUNCH</td>
             <td>BUS15/CHI6/FRE5</td>
             <td>BUS15/CHI6/FRE5</td>
-            <td>BUS15/CHI6/FRE5</td>
-            <td></td>
+             <td></td>
             <td></td>
           </tr>
           <tr>
             <td></td>
+            <td>TUTORS</td>
             <td class="small">Yr.11</td>
             <td>ENG 7</td>
             <td>MATH 4</td>
+            <td></td>
             <td>PHY 16</td>
             <td>GEO 15 / FRE 5</td>
             <td>HIST 10</td>
@@ -183,15 +188,15 @@
             <td>BUS 4</td>
             <td></td>
             <td></td>
-            <td></td>
-          </tr>
+            </tr>
           <!-- WEDNESDAY -->
           <tr>
             <th scope="row" class="row-day">WED</th>
-            <td class="small">TIME</td>
+            <td></td>
             <td class="small">Yr.7</td>
             <td>SCIENCE 9</td>
             <td>MATH 11</td>
+            <td></td>
             <td>GEO 15</td>
             <td>ENG 17</td>
             <td>P.E 13</td>
@@ -199,13 +204,15 @@
             <td>HIST 1</td>
             <td>ART 18</td>
             <td></td>
-            <td>CLUBS</td>
+            <td></td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.8</td>
             <td>MATH 11</td>
             <td>ENG 17</td>
+            <td></td>
             <td>HIST 1</td>
             <td>ART 18</td>
             <td>P.E 13</td>
@@ -214,28 +221,30 @@
             <td>MUSIC 8</td>
             <td></td>
             <td></td>
-            <td></td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.9</td>
             <td>ENG 17</td>
             <td>SCIENCE 9</td>
+            <td></td>
             <td>ICT 2</td>
             <td>ICT 2</td>
             <td>GEO 15</td>
             <td class="highlight lunch">LUNCH</td>
             <td>MATH 4</td>
             <td>HIST 10</td>
-            <td></td>
-            <td></td>
+             <td> CLUBS</td>
             <td></td>
           </tr>
           <tr>
             <td></td>
+            <td>TIME</td>
             <td class="small">Yr.10</td>
             <td>ICT 2 / SWA 13</td>
             <td>ICT 2 / SWA 13</td>
+            <td></td>
             <td>MATH 4</td>
             <td>PHY 9</td>
             <td>ENG 7</td>
@@ -244,23 +253,23 @@
             <td>GEO 15</td>
             <td></td>
             <td></td>
-            <td></td>
-          </tr>
+            </tr>
           <tr>
             <td></td>
+            <td></td>
             <td class="small">Yr.11</td>
-            <td>BUS 4</td>
             <td>ENG 7</td>
-            <td>CHEM 3</td>
-            <td>GEO 15</td>
             <td>MATH 4</td>
+            <td></td>
+            <td>PHY 16</td>
+            <td>GEO 15/FRE 5</td>
+            <td>HIST 10</td>
             <td class="highlight lunch">LUNCH</td>
-            <td>ICT 12</td>
-            <td>ICT 12</td>
+            <td>BUS 4</td>
+            <td>BUS 4</td>
             <td></td>
             <td></td>
-            <td></td>
-          </tr>
+                    </tr>
           <!-- THURSDAY -->
           <tr>
             <th scope="row" class="row-day">THUR</th>
@@ -268,35 +277,39 @@
             <td class="small">Yr.7</td>
             <td>MATH 11</td>
             <td>SCIENCE 9</td>
-            <td>GEO 15</td>
-            <td>ENG 17</td>
-            <td>P.E 13</td>
-            <td class="highlight lunch">LUNCH</td>
-            <td>HIST 1</td>
-            <td>ART 18</td>
             <td></td>
+            <td>HIST</td>
+            <td>ENG 17</td>
+            <td>ICT 2</td>
+            <td class="highlight lunch">LUNCH</td>
+            <td>L.S 14</td>
+            <td>L.S 14</td>
             <td>MIND LECTURE</td>
+            <td></td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.8</td>
             <td>ENG 17</td>
             <td>LIB</td>
+            <td></td>
             <td>MATH 11</td>
             <td>GEO 15</td>
             <td>MUSIC 9</td>
             <td class="highlight lunch">LUNCH</td>
             <td>SCIENCE 9</td>
             <td>SCIENCE 9</td>
+            <td>MID LECTURE</td>
             <td></td>
-            <td></td>
-            <td></td>
-          </tr>
+            </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.9</td>
             <td>SCIENCE 9</td>
             <td>ENG 17</td>
+            <td></td>
             <td>MATH 4</td>
             <td>HIST 10</td>
             <td>P.E 13</td>
@@ -305,13 +318,14 @@
             <td>BUS 11</td>
             <td></td>
             <td></td>
-            <td></td>
-          </tr>
+           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.10</td>
             <td>MATH 4</td>
             <td>CHEM 19</td>
+            <td class="BREAK">Break</td>
             <td>ENG 7</td>
             <td>PHY 9</td>
             <td>PHY 9</td>
@@ -320,13 +334,14 @@
             <td>GEO 15</td>
             <td></td>
             <td></td>
-            <td></td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.11</td>
             <td>ENG 7</td>
             <td>BUS 4</td>
+            <td></td>
             <td>CHEM 3</td>
             <td>CHEM 3</td>
             <td>PHY 16</td>
@@ -335,8 +350,7 @@
             <td>SWA 13</td>
             <td></td>
             <td></td>
-            <td></td>
-          </tr>
+            </tr>
           <!-- FRIDAY -->
           <tr>
             <th scope="row" class="row-day">FRI</th>
@@ -344,6 +358,7 @@
             <td class="small">Yr.7</td>
             <td>MATH 11</td>
             <td>ICT 2</td>
+            <td></td>
             <td>ENG 17</td>
             <td>GEO 15</td>
             <td>P.E 13</td>
@@ -351,54 +366,58 @@
             <td>SCIENCE 9</td>
             <td>MUSIC 8</td>
             <td></td>
-            <td>GAMES</td>
+            <td></td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.8</td>
             <td>ENG 17</td>
             <td>GEO 15</td>
+            <td></td>
             <td>MATH 11</td>
             <td>HIST 1</td>
             <td>P.E 13</td>
             <td class="highlight lunch">LUNCH</td>
             <td>ICT 2</td>
             <td>ICT 2</td>
+            <td>GAMES</td>
             <td></td>
-            <td></td>
-            <td></td>
-          </tr>
+            </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.9</td>
             <td>GEO 15</td>
             <td>MATH 4</td>
+            <td>BREAK</td>
             <td>ICT 2</td>
             <td>ENG 17</td>
             <td>SCIENCE 9</td>
             <td class="highlight lunch">LUNCH</td>
             <td>BUS 11</td>
-            <td>BUS15/CHI6/FRE5</td>
-            <td>BIO 19</td>
-            <td></td>
+            <td>SWA13/FRE5/CH16</td>
+            <td>GAMES</td>
             <td></td>
           </tr>
           <tr>
             <td></td>
+            <td></td>
             <td class="small">Yr.10</td>
             <td>ICT 2 / SWA 13</td>
             <td>HIST 10</td>
+            <td></td>
             <td>MATH 4</td>
             <td>CHEM 19</td>
             <td>ENG 7</td>
             <td class="highlight lunch">LUNCH</td>
             <td>BUS15/CHI6/FRE5</td>
-            <td></td>
-            <td>HIST 10</td>
-            <td></td>
+            <td>BIO 19</td>
+             <td></td>
             <td></td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td class="small">Yr.11</td>
             <td>BIO 3</td>
@@ -406,9 +425,9 @@
             <td></td>
             <td>ENG 7</td>
             <td>MATH 4</td>
-            <td class="highlight lunch">LUNCH</td>
             <td>MATH 4</td>
-            <td>HIST 10</td>
+            <td class="highlight lunch">LUNCH</td>
+             <td>HIST 10</td>
             <td>HIST 10</td>
             <td></td>
             <td></td>
