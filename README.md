@@ -23,13 +23,11 @@
     th {
       background-color: #f2f2f2;
     }
-
-    /* colors */
+     /* colors */
     .break { background-color: #ff9999; font-weight: bold; }
     .lunch { background-color: #ffff99; font-weight: bold; }
     .clubs { background-color: #99ccff; font-weight: bold; }
     .games { background-color: #99ff99; font-weight: bold; }
-
     /* vertical writing */
     .vertical {
       writing-mode: vertical-rl;
