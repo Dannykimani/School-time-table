@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>School Timetable</title>
+ <title>School Timetable</title>
   <style>
     body {
       font-family: Arial, sans-serif;
