@@ -126,7 +126,6 @@
           <td>MATH 4</td>
           <td></td>
         </tr>
-
         <!-- TUESDAY -->
         <tr>
           <td rowspan="5">TUE</td>
@@ -187,7 +186,6 @@
           <td>BUS 4</td>
           <td></td>
         </tr>
-
         <!-- WEDNESDAY -->
         <tr>
           <td rowspan="5">WED</td>
@@ -248,7 +246,6 @@
           <td>BUS 4</td>
           <td></td>
         </tr>
-
         <!-- THURSDAY -->
         <tr>
           <td rowspan="5">THU</td>
@@ -309,7 +306,6 @@
           <td>SWA 13</td>
           <td></td>
         </tr>
-
         <!-- FRIDAY -->
         <tr>
           <td rowspan="5">FRI</td>
