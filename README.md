@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -16,7 +16,7 @@
     th, td {
       border: 1px solid black;
       padding: 5px;
-      text-align: center;
+      text-align: center;<
       font-size: 13px;
       word-wrap: break-word;
     }
@@ -115,8 +115,7 @@
         <tr>
           <td>Yr.11</td>
           <td>GEO 15 / FRE 5</td>
-          <td></td>
-          <td>BIO 3</td>
+         <td>GEO 3</td>
           <td>FRE/ICT 12</td>
           <td>ENG 7</td>
           <td>PHY 16</td>
@@ -369,3 +368,4 @@
   </div>
 </body>
 </html>
+        
